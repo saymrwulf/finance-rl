@@ -2,3 +2,4 @@
 2014-01-09T03:44:00 - Refactor for clarity, might break a few tests though (finance-rl)
 2014-01-27T19:26:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (finance-rl)
 2014-01-27T03:26:00 - Quick fix, referencing a known issue from the official repo (finance-rl)
+2014-01-27T22:53:00 - Refactor for clarity, might break a few tests though (finance-rl)
