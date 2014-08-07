@@ -6,3 +6,4 @@
 2014-06-13T05:22:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (finance-rl)
 2014-08-07T04:12:00 - Refactor for clarity, might break a few tests though (finance-rl)
 2014-08-07T21:21:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (finance-rl)
+2014-08-07T03:39:00 - Minor doc updates: linking to article on quantization (finance-rl)
