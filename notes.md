@@ -8,3 +8,4 @@
 2014-08-07T21:21:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (finance-rl)
 2014-08-07T03:39:00 - Minor doc updates: linking to article on quantization (finance-rl)
 2014-08-07T21:18:00 - Implementing approach from a new paper read last night (finance-rl)
+2014-08-23T08:23:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (finance-rl)
