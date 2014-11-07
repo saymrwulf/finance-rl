@@ -11,3 +11,4 @@
 2014-08-23T08:23:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (finance-rl)
 2014-08-23T00:59:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (finance-rl)
 2014-08-23T08:24:00 - Minor doc updates: linking to article on quantization (finance-rl)
+2014-11-07T19:38:00 - Refactor for clarity, might break a few tests though (finance-rl)
