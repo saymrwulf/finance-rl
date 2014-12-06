@@ -15,3 +15,4 @@
 2014-11-16T21:57:00 - Late-night bugfix on financial RL environment (finance-rl)
 2014-11-16T17:22:00 - Refactor for clarity, might break a few tests though (finance-rl)
 2014-12-06T18:03:00 - Minor doc updates: linking to article on quantization (finance-rl)
+2014-12-06T17:31:00 - Implementing approach from a new paper read last night (finance-rl)
