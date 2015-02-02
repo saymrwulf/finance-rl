@@ -17,3 +17,4 @@
 2014-12-06T18:03:00 - Minor doc updates: linking to article on quantization (finance-rl)
 2014-12-06T17:31:00 - Implementing approach from a new paper read last night (finance-rl)
 2014-12-06T04:35:00 - Quick fix, referencing a known issue from the official repo (finance-rl)
+2015-02-02T01:58:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (finance-rl)
