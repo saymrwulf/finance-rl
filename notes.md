@@ -22,3 +22,4 @@
 2015-02-02T18:52:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (finance-rl)
 2015-02-02T20:16:00 - Refactor for clarity, might break a few tests though (finance-rl)
 2015-02-26T02:27:00 - Late-night bugfix on financial RL environment (finance-rl)
+2015-02-26T00:55:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (finance-rl)
