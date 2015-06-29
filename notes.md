@@ -27,3 +27,4 @@
 2015-06-01T08:53:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (finance-rl)
 2015-06-01T23:45:00 - Refactor for clarity, might break a few tests though (finance-rl)
 2015-06-30T02:23:00 - Quick fix, referencing a known issue from the official repo (finance-rl)
+2015-06-30T01:41:00 - Minor doc updates: linking to article on quantization (finance-rl)
