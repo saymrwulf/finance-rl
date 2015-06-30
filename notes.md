@@ -29,3 +29,4 @@
 2015-06-30T02:23:00 - Quick fix, referencing a known issue from the official repo (finance-rl)
 2015-06-30T01:41:00 - Minor doc updates: linking to article on quantization (finance-rl)
 2015-06-30T06:11:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (finance-rl)
+2015-06-30T08:02:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (finance-rl)
