@@ -33,3 +33,4 @@
 2015-07-04T18:08:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (finance-rl)
 2015-07-04T03:13:00 - Late-night bugfix on financial RL environment (finance-rl)
 2015-07-04T07:55:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (finance-rl)
+2015-07-05T19:36:00 - Quick fix, referencing a known issue from the official repo (finance-rl)
