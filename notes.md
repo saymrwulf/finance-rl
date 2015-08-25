@@ -41,3 +41,4 @@
 2015-08-20T06:52:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (finance-rl)
 2015-08-26T08:27:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (finance-rl)
 2015-08-26T07:56:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (finance-rl)
+2015-08-26T01:16:00 - Refactor for clarity, might break a few tests though (finance-rl)
