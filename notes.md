@@ -43,3 +43,4 @@
 2015-08-26T07:56:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (finance-rl)
 2015-08-26T01:16:00 - Refactor for clarity, might break a few tests though (finance-rl)
 2015-11-07T02:06:00 - Minor doc updates: linking to article on quantization (finance-rl)
+2015-12-19T19:32:00 - Implementing approach from a new paper read last night (finance-rl)
