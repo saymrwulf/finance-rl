@@ -44,3 +44,4 @@
 2015-08-26T01:16:00 - Refactor for clarity, might break a few tests though (finance-rl)
 2015-11-07T02:06:00 - Minor doc updates: linking to article on quantization (finance-rl)
 2015-12-19T19:32:00 - Implementing approach from a new paper read last night (finance-rl)
+2015-12-19T23:08:00 - Minor doc updates: linking to article on quantization (finance-rl)
