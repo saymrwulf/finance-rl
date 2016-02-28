@@ -49,3 +49,4 @@
 2015-12-19T02:24:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (finance-rl)
 2016-02-23T00:32:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (finance-rl)
 2016-02-28T23:04:00 - Late-night bugfix on financial RL environment (finance-rl)
+2016-02-28T03:47:00 - Refactor for clarity, might break a few tests though (finance-rl)
