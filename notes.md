@@ -54,3 +54,4 @@
 2016-03-02T02:58:00 - Minor doc updates: linking to article on quantization (finance-rl)
 2016-03-02T21:44:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (finance-rl)
 2016-04-29T01:45:00 - Minor doc updates: linking to article on quantization (finance-rl)
+2016-04-29T00:18:00 - Minor doc updates: linking to article on quantization (finance-rl)
