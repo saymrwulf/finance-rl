@@ -57,3 +57,4 @@
 2016-04-29T00:18:00 - Minor doc updates: linking to article on quantization (finance-rl)
 2016-04-29T22:30:00 - Refactor for clarity, might break a few tests though (finance-rl)
 2016-04-29T06:39:00 - Minor doc updates: linking to article on quantization (finance-rl)
+2016-05-01T05:56:00 - Late-night bugfix on financial RL environment (finance-rl)
