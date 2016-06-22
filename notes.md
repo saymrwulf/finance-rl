@@ -62,3 +62,4 @@
 2016-05-06T21:56:00 - Quick fix, referencing a known issue from the official repo (finance-rl)
 2016-05-06T17:40:00 - Minor doc updates: linking to article on quantization (finance-rl)
 2016-06-22T19:26:00 - Quick fix, referencing a known issue from the official repo (finance-rl)
+2016-06-22T22:36:00 - Late-night bugfix on financial RL environment (finance-rl)
