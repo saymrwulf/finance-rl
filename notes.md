@@ -64,3 +64,4 @@
 2016-06-22T19:26:00 - Quick fix, referencing a known issue from the official repo (finance-rl)
 2016-06-22T22:36:00 - Late-night bugfix on financial RL environment (finance-rl)
 2016-10-29T04:05:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (finance-rl)
+2016-10-29T02:39:00 - Refactor for clarity, might break a few tests though (finance-rl)
