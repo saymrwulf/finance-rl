@@ -71,3 +71,4 @@
 2016-11-23T07:13:00 - Implementing approach from a new paper read last night (finance-rl)
 2016-11-23T20:54:00 - Quick fix, referencing a known issue from the official repo (finance-rl)
 2016-11-23T22:24:00 - Implementing approach from a new paper read last night (finance-rl)
+2016-11-30T21:10:00 - Refactor for clarity, might break a few tests though (finance-rl)
