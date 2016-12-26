@@ -73,3 +73,4 @@
 2016-11-23T22:24:00 - Implementing approach from a new paper read last night (finance-rl)
 2016-11-30T21:10:00 - Refactor for clarity, might break a few tests though (finance-rl)
 2016-12-26T05:49:00 - Quick fix, referencing a known issue from the official repo (finance-rl)
+2016-12-26T03:37:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (finance-rl)
