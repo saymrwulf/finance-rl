@@ -75,3 +75,4 @@
 2016-12-26T05:49:00 - Quick fix, referencing a known issue from the official repo (finance-rl)
 2016-12-26T03:37:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (finance-rl)
 2016-12-26T01:34:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (finance-rl)
+2016-12-29T22:04:00 - Implementing approach from a new paper read last night (finance-rl)
