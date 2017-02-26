@@ -78,3 +78,4 @@
 2016-12-29T22:04:00 - Implementing approach from a new paper read last night (finance-rl)
 2017-02-26T17:22:00 - Minor doc updates: linking to article on quantization (finance-rl)
 2017-02-26T05:56:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (finance-rl)
+2017-02-26T07:54:00 - Quick fix, referencing a known issue from the official repo (finance-rl)
