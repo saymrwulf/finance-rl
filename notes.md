@@ -77,3 +77,4 @@
 2016-12-26T01:34:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (finance-rl)
 2016-12-29T22:04:00 - Implementing approach from a new paper read last night (finance-rl)
 2017-02-26T17:22:00 - Minor doc updates: linking to article on quantization (finance-rl)
+2017-02-26T05:56:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (finance-rl)
