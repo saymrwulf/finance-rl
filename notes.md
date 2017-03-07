@@ -83,3 +83,4 @@
 2017-02-27T22:13:00 - Implementing approach from a new paper read last night (finance-rl)
 2017-02-27T08:11:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (finance-rl)
 2017-03-07T20:18:00 - Minor doc updates: linking to article on quantization (finance-rl)
+2017-03-07T02:16:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (finance-rl)
