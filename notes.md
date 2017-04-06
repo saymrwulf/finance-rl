@@ -86,3 +86,4 @@
 2017-03-07T02:16:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (finance-rl)
 2017-03-07T21:19:00 - Quick fix, referencing a known issue from the official repo (finance-rl)
 2017-04-07T17:10:00 - Late-night bugfix on financial RL environment (finance-rl)
+2017-04-07T00:30:00 - Late-night bugfix on financial RL environment (finance-rl)
