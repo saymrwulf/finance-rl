@@ -90,3 +90,4 @@
 2017-04-07T23:17:00 - Implementing approach from a new paper read last night (finance-rl)
 2017-04-19T21:27:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (finance-rl)
 2017-04-19T05:40:00 - Late-night bugfix on financial RL environment (finance-rl)
+2017-04-19T04:32:00 - Late-night bugfix on financial RL environment (finance-rl)
