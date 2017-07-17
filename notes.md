@@ -93,3 +93,4 @@
 2017-04-19T04:32:00 - Late-night bugfix on financial RL environment (finance-rl)
 2017-06-27T01:43:00 - Late-night bugfix on financial RL environment (finance-rl)
 2017-06-27T08:53:00 - Minor doc updates: linking to article on quantization (finance-rl)
+2017-07-17T19:33:00 - Refactor for clarity, might break a few tests though (finance-rl)
