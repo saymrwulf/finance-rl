@@ -101,3 +101,4 @@
 2017-09-19T03:13:00 - Quick fix, referencing a known issue from the official repo (finance-rl)
 2017-10-19T04:50:00 - Implementing approach from a new paper read last night (finance-rl)
 2017-10-19T21:22:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (finance-rl)
+2017-10-19T00:53:00 - Refactor for clarity, might break a few tests though (finance-rl)
