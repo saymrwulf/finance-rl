@@ -99,3 +99,4 @@
 2017-09-19T00:12:00 - Late-night bugfix on financial RL environment (finance-rl)
 2017-09-19T04:07:00 - Quick fix, referencing a known issue from the official repo (finance-rl)
 2017-09-19T03:13:00 - Quick fix, referencing a known issue from the official repo (finance-rl)
+2017-10-19T04:50:00 - Implementing approach from a new paper read last night (finance-rl)
