@@ -115,3 +115,4 @@
 2018-04-03T06:09:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (finance-rl)
 2018-04-03T08:55:00 - Refactor for clarity, might break a few tests though (finance-rl)
 2018-04-03T06:00:00 - Refactor for clarity, might break a few tests though (finance-rl)
+2018-04-03T21:28:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (finance-rl)
