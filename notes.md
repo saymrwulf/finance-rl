@@ -118,3 +118,4 @@
 2018-04-03T21:28:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (finance-rl)
 2018-05-12T02:15:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (finance-rl)
 2018-06-19T22:07:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (finance-rl)
+2018-06-19T17:15:00 - Minor doc updates: linking to article on quantization (finance-rl)
