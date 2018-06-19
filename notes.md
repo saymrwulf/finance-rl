@@ -120,3 +120,4 @@
 2018-06-19T22:07:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (finance-rl)
 2018-06-19T17:15:00 - Minor doc updates: linking to article on quantization (finance-rl)
 2018-06-19T23:55:00 - Refactor for clarity, might break a few tests though (finance-rl)
+2018-06-19T23:48:00 - Minor doc updates: linking to article on quantization (finance-rl)
