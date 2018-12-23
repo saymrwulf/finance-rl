@@ -125,3 +125,4 @@
 2018-11-11T23:26:00 - Late-night bugfix on financial RL environment (finance-rl)
 2018-11-11T02:23:00 - Quick fix, referencing a known issue from the official repo (finance-rl)
 2018-12-23T01:10:00 - Refactor for clarity, might break a few tests though (finance-rl)
+2018-12-23T08:30:00 - Quick fix, referencing a known issue from the official repo (finance-rl)
