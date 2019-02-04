@@ -129,3 +129,4 @@
 2018-12-23T23:45:00 - Late-night bugfix on financial RL environment (finance-rl)
 2019-01-18T17:41:00 - Refactor for clarity, might break a few tests though (finance-rl)
 2019-01-18T20:47:00 - Refactor for clarity, might break a few tests though (finance-rl)
+2019-02-04T04:22:00 - Late-night bugfix on financial RL environment (finance-rl)
