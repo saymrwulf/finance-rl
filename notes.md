@@ -132,3 +132,4 @@
 2019-02-04T04:22:00 - Late-night bugfix on financial RL environment (finance-rl)
 2019-02-04T22:04:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (finance-rl)
 2019-03-14T20:34:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (finance-rl)
+2019-03-14T00:17:00 - Quick fix, referencing a known issue from the official repo (finance-rl)
