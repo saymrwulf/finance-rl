@@ -136,3 +136,4 @@
 2019-03-30T05:09:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (finance-rl)
 2019-03-30T04:26:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (finance-rl)
 2019-03-30T00:52:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (finance-rl)
+2019-03-30T06:28:00 - Late-night bugfix on financial RL environment (finance-rl)
