@@ -138,3 +138,4 @@
 2019-03-30T00:52:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (finance-rl)
 2019-03-30T06:28:00 - Late-night bugfix on financial RL environment (finance-rl)
 2019-04-08T07:54:00 - Implementing approach from a new paper read last night (finance-rl)
+2019-04-08T05:27:00 - Refactor for clarity, might break a few tests though (finance-rl)
