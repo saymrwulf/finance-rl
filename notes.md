@@ -141,3 +141,4 @@
 2019-04-08T05:27:00 - Refactor for clarity, might break a few tests though (finance-rl)
 2019-06-19T21:43:00 - Minor doc updates: linking to article on quantization (finance-rl)
 2019-06-19T00:44:00 - Quick fix, referencing a known issue from the official repo (finance-rl)
+2019-07-07T01:54:00 - Minor doc updates: linking to article on quantization (finance-rl)
