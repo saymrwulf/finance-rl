@@ -144,3 +144,4 @@
 2019-07-07T01:54:00 - Minor doc updates: linking to article on quantization (finance-rl)
 2019-07-07T20:48:00 - Implementing approach from a new paper read last night (finance-rl)
 2019-07-07T23:03:00 - Refactor for clarity, might break a few tests though (finance-rl)
+2019-07-07T20:25:00 - Minor doc updates: linking to article on quantization (finance-rl)
