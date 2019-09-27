@@ -146,3 +146,4 @@
 2019-07-07T23:03:00 - Refactor for clarity, might break a few tests though (finance-rl)
 2019-07-07T20:25:00 - Minor doc updates: linking to article on quantization (finance-rl)
 2019-09-27T03:13:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (finance-rl)
+2019-09-27T06:30:00 - Minor doc updates: linking to article on quantization (finance-rl)
