@@ -149,3 +149,4 @@
 2019-09-27T06:30:00 - Minor doc updates: linking to article on quantization (finance-rl)
 2019-09-27T20:57:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (finance-rl)
 2019-09-27T08:33:00 - Minor doc updates: linking to article on quantization (finance-rl)
+2019-10-09T01:50:00 - Quick fix, referencing a known issue from the official repo (finance-rl)
