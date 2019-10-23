@@ -151,3 +151,4 @@
 2019-09-27T08:33:00 - Minor doc updates: linking to article on quantization (finance-rl)
 2019-10-09T01:50:00 - Quick fix, referencing a known issue from the official repo (finance-rl)
 2019-10-09T17:58:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (finance-rl)
+2019-10-23T07:09:00 - Refactor for clarity, might break a few tests though (finance-rl)
