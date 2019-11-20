@@ -156,3 +156,4 @@
 2019-10-23T04:45:00 - Late-night bugfix on financial RL environment (finance-rl)
 2019-10-23T23:19:00 - Minor doc updates: linking to article on quantization (finance-rl)
 2019-11-20T22:06:00 - Minor doc updates: linking to article on quantization (finance-rl)
+2019-11-20T04:22:00 - Refactor for clarity, might break a few tests though (finance-rl)
