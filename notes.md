@@ -161,3 +161,4 @@
 2019-12-30T01:08:00 - Refactor for clarity, might break a few tests though (finance-rl)
 2020-01-15T04:50:00 - Late-night bugfix on financial RL environment (finance-rl)
 2020-01-15T08:45:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (finance-rl)
+2020-02-28T06:34:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (finance-rl)
