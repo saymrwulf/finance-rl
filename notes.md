@@ -163,3 +163,4 @@
 2020-01-15T08:45:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (finance-rl)
 2020-02-28T06:34:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (finance-rl)
 2020-03-01T03:22:00 - Minor doc updates: linking to article on quantization (finance-rl)
+2020-03-01T23:37:00 - Minor doc updates: linking to article on quantization (finance-rl)
