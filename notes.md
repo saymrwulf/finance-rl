@@ -164,3 +164,4 @@
 2020-02-28T06:34:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (finance-rl)
 2020-03-01T03:22:00 - Minor doc updates: linking to article on quantization (finance-rl)
 2020-03-01T23:37:00 - Minor doc updates: linking to article on quantization (finance-rl)
+2020-03-01T02:29:00 - Quick fix, referencing a known issue from the official repo (finance-rl)
