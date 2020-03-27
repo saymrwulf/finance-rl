@@ -167,3 +167,4 @@
 2020-03-01T02:29:00 - Quick fix, referencing a known issue from the official repo (finance-rl)
 2020-03-01T04:54:00 - Implementing approach from a new paper read last night (finance-rl)
 2020-03-27T02:40:00 - Refactor for clarity, might break a few tests though (finance-rl)
+2020-03-27T01:11:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (finance-rl)
