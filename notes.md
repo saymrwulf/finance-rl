@@ -172,3 +172,4 @@
 2020-06-03T00:16:00 - Quick fix, referencing a known issue from the official repo (finance-rl)
 2020-06-03T18:58:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (finance-rl)
 2020-06-05T21:37:00 - Implementing approach from a new paper read last night (finance-rl)
+2020-06-05T17:22:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (finance-rl)
