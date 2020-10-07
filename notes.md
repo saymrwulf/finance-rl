@@ -187,3 +187,4 @@
 2020-09-28T01:27:00 - Refactor for clarity, might break a few tests though (finance-rl)
 2020-09-28T08:12:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (finance-rl)
 2020-09-28T06:10:00 - Implementing approach from a new paper read last night (finance-rl)
+2020-10-07T02:48:00 - Refactor for clarity, might break a few tests though (finance-rl)
