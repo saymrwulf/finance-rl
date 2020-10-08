@@ -191,3 +191,4 @@
 2020-10-07T22:41:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (finance-rl)
 2020-10-07T18:05:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (finance-rl)
 2020-10-07T17:51:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (finance-rl)
+2020-10-08T23:28:00 - Refactor for clarity, might break a few tests though (finance-rl)
