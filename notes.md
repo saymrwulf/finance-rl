@@ -198,3 +198,4 @@
 2020-10-25T06:35:00 - Quick fix, referencing a known issue from the official repo (finance-rl)
 2020-10-25T06:58:00 - Late-night bugfix on financial RL environment (finance-rl)
 2021-03-21T21:08:00 - Quick fix, referencing a known issue from the official repo (finance-rl)
+2021-03-21T02:50:00 - Refactor for clarity, might break a few tests though (finance-rl)
