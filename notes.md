@@ -201,3 +201,4 @@
 2021-03-21T02:50:00 - Refactor for clarity, might break a few tests though (finance-rl)
 2021-05-22T08:47:00 - Implementing approach from a new paper read last night (finance-rl)
 2021-05-22T07:41:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (finance-rl)
+2021-05-22T08:29:00 - Quick fix, referencing a known issue from the official repo (finance-rl)
