@@ -202,3 +202,4 @@
 2021-05-22T08:47:00 - Implementing approach from a new paper read last night (finance-rl)
 2021-05-22T07:41:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (finance-rl)
 2021-05-22T08:29:00 - Quick fix, referencing a known issue from the official repo (finance-rl)
+2021-05-22T08:55:00 - Late-night bugfix on financial RL environment (finance-rl)
