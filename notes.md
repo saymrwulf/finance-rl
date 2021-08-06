@@ -206,3 +206,4 @@
 2021-06-12T01:25:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (finance-rl)
 2021-06-12T02:13:00 - Refactor for clarity, might break a few tests though (finance-rl)
 2021-08-06T23:08:00 - Minor doc updates: linking to article on quantization (finance-rl)
+2021-08-06T08:34:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (finance-rl)
