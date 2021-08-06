@@ -205,3 +205,4 @@
 2021-05-22T08:55:00 - Late-night bugfix on financial RL environment (finance-rl)
 2021-06-12T01:25:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (finance-rl)
 2021-06-12T02:13:00 - Refactor for clarity, might break a few tests though (finance-rl)
+2021-08-06T23:08:00 - Minor doc updates: linking to article on quantization (finance-rl)
