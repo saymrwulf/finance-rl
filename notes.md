@@ -209,3 +209,4 @@
 2021-08-06T08:34:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (finance-rl)
 2021-08-06T04:53:00 - Implementing approach from a new paper read last night (finance-rl)
 2021-08-06T02:01:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (finance-rl)
+2021-08-18T04:20:00 - Implementing approach from a new paper read last night (finance-rl)
