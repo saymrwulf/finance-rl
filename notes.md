@@ -226,3 +226,4 @@
 2022-01-03T05:04:00 - Implementing approach from a new paper read last night (finance-rl)
 2022-01-16T05:43:00 - Quick fix, referencing a known issue from the official repo (finance-rl)
 2022-01-19T08:16:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (finance-rl)
+2022-01-19T07:07:00 - Minor doc updates: linking to article on quantization (finance-rl)
