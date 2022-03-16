@@ -228,3 +228,4 @@
 2022-01-19T08:16:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (finance-rl)
 2022-01-19T07:07:00 - Minor doc updates: linking to article on quantization (finance-rl)
 2022-03-16T20:10:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (finance-rl)
+2022-03-16T21:10:00 - Minor doc updates: linking to article on quantization (finance-rl)
