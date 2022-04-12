@@ -230,3 +230,4 @@
 2022-03-16T20:10:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (finance-rl)
 2022-03-16T21:10:00 - Minor doc updates: linking to article on quantization (finance-rl)
 2022-04-12T19:19:00 - Quick fix, referencing a known issue from the official repo (finance-rl)
+2022-04-12T23:34:00 - Late-night bugfix on financial RL environment (finance-rl)
