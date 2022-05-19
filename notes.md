@@ -235,3 +235,4 @@
 2022-05-05T18:23:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (finance-rl)
 2022-05-05T05:25:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (finance-rl)
 2022-05-05T04:50:00 - Implementing approach from a new paper read last night (finance-rl)
+2022-05-19T20:42:00 - Implementing approach from a new paper read last night (finance-rl)
