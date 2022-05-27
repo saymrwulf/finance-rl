@@ -237,3 +237,4 @@
 2022-05-05T04:50:00 - Implementing approach from a new paper read last night (finance-rl)
 2022-05-19T20:42:00 - Implementing approach from a new paper read last night (finance-rl)
 2022-05-27T18:28:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (finance-rl)
+2022-05-27T19:05:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (finance-rl)
