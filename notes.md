@@ -247,3 +247,4 @@
 2022-10-09T21:58:00 - Late-night bugfix on financial RL environment (finance-rl)
 2022-10-09T01:05:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (finance-rl)
 2022-10-09T02:52:00 - Minor doc updates: linking to article on quantization (finance-rl)
+2022-11-15T20:00:00 - Minor doc updates: linking to article on quantization (finance-rl)
