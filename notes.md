@@ -257,3 +257,4 @@
 2023-02-19T08:49:00 - Implementing approach from a new paper read last night (finance-rl)
 2023-04-01T06:43:00 - Quick fix, referencing a known issue from the official repo (finance-rl)
 2023-04-01T05:50:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (finance-rl)
+2023-04-01T06:39:00 - Minor doc updates: linking to article on quantization (finance-rl)
