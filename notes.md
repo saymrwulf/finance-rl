@@ -265,3 +265,4 @@
 2023-05-22T02:16:00 - Late-night bugfix on financial RL environment (finance-rl)
 2023-06-17T08:01:00 - Implementing approach from a new paper read last night (finance-rl)
 2023-06-17T03:06:00 - Implementing approach from a new paper read last night (finance-rl)
+2023-06-17T05:53:00 - Minor doc updates: linking to article on quantization (finance-rl)
