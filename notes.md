@@ -270,3 +270,4 @@
 2023-07-31T23:14:00 - Minor doc updates: linking to article on quantization (finance-rl)
 2023-07-31T06:00:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (finance-rl)
 2023-07-31T00:32:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (finance-rl)
+2023-09-17T06:58:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (finance-rl)
