@@ -275,3 +275,4 @@
 2023-12-18T03:12:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (finance-rl)
 2024-01-07T06:46:00 - Late-night bugfix on financial RL environment (finance-rl)
 2024-01-15T19:53:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (finance-rl)
+2024-01-29T02:30:00 - Minor doc updates: linking to article on quantization (finance-rl)
