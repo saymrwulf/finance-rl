@@ -281,3 +281,4 @@
 2024-01-29T03:15:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (finance-rl)
 2024-02-10T06:45:00 - Quick fix, referencing a known issue from the official repo (finance-rl)
 2024-02-10T20:08:00 - Quick fix, referencing a known issue from the official repo (finance-rl)
+2024-02-10T02:18:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (finance-rl)
