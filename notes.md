@@ -283,3 +283,4 @@
 2024-02-10T20:08:00 - Quick fix, referencing a known issue from the official repo (finance-rl)
 2024-02-10T02:18:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (finance-rl)
 2024-02-10T07:01:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (finance-rl)
+2024-02-18T17:38:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (finance-rl)
