@@ -288,3 +288,4 @@
 2024-02-18T22:25:00 - Implementing approach from a new paper read last night (finance-rl)
 2024-04-04T17:59:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (finance-rl)
 2024-04-04T23:29:00 - Late-night bugfix on financial RL environment (finance-rl)
+2024-04-04T02:58:00 - Refactor for clarity, might break a few tests though (finance-rl)
