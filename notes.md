@@ -289,3 +289,4 @@
 2024-04-04T17:59:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (finance-rl)
 2024-04-04T23:29:00 - Late-night bugfix on financial RL environment (finance-rl)
 2024-04-04T02:58:00 - Refactor for clarity, might break a few tests though (finance-rl)
+2024-05-23T02:20:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (finance-rl)
