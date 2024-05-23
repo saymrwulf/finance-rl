@@ -291,3 +291,4 @@
 2024-04-04T02:58:00 - Refactor for clarity, might break a few tests though (finance-rl)
 2024-05-23T02:20:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (finance-rl)
 2024-05-23T07:46:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (finance-rl)
+2024-05-23T23:10:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (finance-rl)
