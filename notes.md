@@ -304,3 +304,4 @@
 2024-07-27T19:50:00 - Minor doc updates: linking to article on quantization (finance-rl)
 2024-07-27T22:36:00 - Quick fix, referencing a known issue from the official repo (finance-rl)
 2024-07-27T23:39:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (finance-rl)
+2024-08-08T20:24:00 - Late-night bugfix on financial RL environment (finance-rl)
