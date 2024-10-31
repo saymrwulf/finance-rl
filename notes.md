@@ -309,3 +309,4 @@
 2024-08-30T17:01:00 - Quick fix, referencing a known issue from the official repo (finance-rl)
 2024-08-30T02:24:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (finance-rl)
 2024-10-23T08:16:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (finance-rl)
+2024-10-31T19:13:00 - Late-night bugfix on financial RL environment (finance-rl)
