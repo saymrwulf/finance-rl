@@ -317,3 +317,4 @@
 2024-11-16T19:42:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (finance-rl)
 2024-11-18T04:28:00 - Late-night bugfix on financial RL environment (finance-rl)
 2024-11-18T17:40:00 - Late-night bugfix on financial RL environment (finance-rl)
+2024-12-31T18:40:00 - Refactor for clarity, might break a few tests though (finance-rl)
